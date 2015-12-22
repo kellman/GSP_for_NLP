@@ -1,0 +1,25 @@
+Amazon’s Boom In the Cloud
+
+You can tell when a technology is really taking hold. In addition to picking up customers, it generates other businesses that require their own care and feeding. And some of those businesses can illustrate how much more business is out there.
+
+On Tuesday, Amazon Web Services is having a meeting for developers and customers in San Francisco. It is the fourth of 12 such meetings Amazon is holding worldwide; the first was in New York on April 18 and the last will be in São Paulo, Brazil, on July 30. In between, Amazon will be in Delhi and Berlin, among other cities.
+
+These gatherings will include lots of cheerleading and information from Amazon Web Services directed toward prospective customers and will also have meetings for companies that work closely with Web services on things like databases, security, and application development. About 650 companies are partners with Amazon Web Services, and there are another 723 consulting partners that attract customers looking to tie the unit into their business.
+
+Amazon Web Services is growing fast. It has over 1,600 job openings on its Web site and accounted for the vast majority of the $798 million in “other” revenue Amazon reported in the quarter that ended March 31. Still, it wants those other companies to be really active on its behalf so it can remain the leader in so-called “public clouds,” or cloud computing services for rent.
+
+A look at one of the partners, Eucalyptus Systems, illustrates the kind of scale the Amazon service operates on. Eucalyptus provides cloud software that is used primarily for testing big Amazon service projects. That is, even before some companies go on Amazon Web Services, they build mini-Web services clouds.
+
+One customer of Eucalyptus, AppDynamics, tests new software for Netflix, the largest customer of the Amazon service. “Even before their software is on A.W.S., we are categorizing and analyzing over a billion transactions,” said Thomas Morse, director of information technology and operations at App Dynamics. “Netflix inflicts a unique kind of pain on a system, with tens of thousands of computing nodes supporting millions of actions a minute.”
+
+Eucalyptus, which began life as an open-source project for people to build their own clouds, moved into supporting Amazon Web Services once Amazon captured such a large share of the market. “They’ve got hundreds of thousands of customers now,” said Marten Mickos, chief executive of Eucalyptus. Because almost all of these customers are companies, he said, “it is used by millions of people. It gives them meaning for a number of years.”
+
+Last week the data storage giant EMC and its affiliate VMware, which are worried about the Amazon service, announced creation of Pivotal, a company that includes its own Amazon-type cloud. This summer, Google is likely to announce an expansion of its own Amazon Web Services-type unit, called Google Compute Engine.
+
+Both Pivotal and Google are working hard on partner networks of their own. Elsewhere, a wealth of consortia with the word “open” in their names are looking for their own openings. Many of these companies are heavily backed by older incumbent companies.
+
+Mr. Mickos, who sold MySQL, a relational database management system, to Sun Microsystems for $1 billion in 2008, sees the completion as a three-way competition. “There are the old guys, like IBM, Hewlett-Packard, Intel and Cisco, who are trying to get into new stuff,” he says. “There are the server virtualization companies, like VMware and Citrix, who say the cloud is just more virtualization of your existing equipment. Then there are the pure plays, like A.W.S. and Google.”
+
+On Monday, Eucalyptus introduced a new version of its product that allows customers to test even bigger projects before they move to the Amazon service. In the future, Mr. Mickos said, the company would look to make its product compatible with Google’s service as well.
+
+“It is the most interesting strategic thing we can do,” he said. “Amazon is the standard now, Google will compete. There is an old world that won’t cross over.” 
